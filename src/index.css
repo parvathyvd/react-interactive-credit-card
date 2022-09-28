@@ -200,7 +200,7 @@ form.card-form input.cardBlankError{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 50rem;
+  width: 50rem;
 }
 .success h4{
   font-size: 1.7rem;
